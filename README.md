@@ -57,12 +57,12 @@ In the world of **CORTICOL**, a high Stress Score is not a warning—it is a tar
 
 ### The Diagnosis Matrix
 
-| Score Range | System Status | Diagnosis |
-| :--- | :--- | :--- |
-| **0 - 2,500** | 🔴 **CRITICAL LATENCY** | **Brain Fog Detected.** Firewall failing. High "Passive Miss" rates suggest saturated working memory. |
-| **2,500 - 5,000** | 🟡 **NOMINAL OPERATIONS** | **Baseline Human Performance.** Capable of processing, but breaking under "burst" loads. |
-| **5,000 - 8,000** | 🟢 **HYPER-THREADED** | **Flow State Achieved.** Effective "Overclocking." Anticipating tasks before spawn. |
-| **8,000+** | 🟣 **CORTEX SINGULARITY** | **God Mode.** Complete amygdala override. Surgical precision during chaos. |
+System Status | Diagnosis |
+:--- | :--- |
+🔴 **CRITICAL LATENCY** | **Brain Fog Detected.** Firewall failing. High "Passive Miss" rates suggest saturated working memory. |
+🟡 **NOMINAL OPERATIONS** | **Baseline Human Performance.** Capable of processing, but breaking under "burst" loads. |
+🟢 **HYPER-THREADED** | **Flow State Achieved.** Effective "Overclocking." Anticipating tasks before spawn. |
+🟣 **CORTEX SINGULARITY** | **God Mode.** Complete amygdala override. Surgical precision during chaos. |
 
 ---
 
